@@ -12,5 +12,3 @@ Welcome to the Weight Converter application! This application allows users to co
 
 You can visit the Weight Converter website at [click here](https://adi2212.github.io/weight-converter/).
 
-
-https://adi2212.github.io/weight-converter/
